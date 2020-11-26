@@ -1,6 +1,9 @@
 # Lilliputain Assembly Language (LILLI)
 Lilliputain is an interpreted psuedo-assembly language that is written in C++. While it is not a true assembly language, it mimics the behavior of actual assemblies. The name "Lilliputain" comes from the 1726 novel Gulliver's Travels by Jonathan Swift. The word lilliputian has become an adjective meaning "very small in size", which is fitting to this assembly language as it was not meant to have the full capabillities of an x86 or NASM assembler.
 
+<h2>Downloads</h2>
+Lilliputain can be ran as a standalone .exe file. Go to Lilliputain/bin/lilli.exe and click "View RAW". Github will automatically start downloading the .exe file. If you can't find that page, here is the link: xxxxxxx. Do not download any .obj files as they are redundant files for internal purposes. You can also view code snippets inside the "Snippets" folder for examples of Lilliputain assembly code.
+
 <h2>Background</h2>
 Lilliputain programs take on the file extension of (.lp). They can be executed through a CLI by running this command:
 
